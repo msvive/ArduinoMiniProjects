@@ -2,7 +2,7 @@
 // MDes in Digital Future, OCAD University
 // Creation & Computation Course, Nick Pucket
 // - - - - - - - - - - - - - - - - - - - - - - - - -
-// For this sketch, I used a basic circuit, an ultrasonic sensor, a micro servo, a bread board and some jumper wires. 
+// For this sketch, I used an ultrasonic sensor and a micro servo. 
 // When a vehicle arrives, the ultrasonic sensor will be activated to raise/lower the gate according to the distance between objects. 
 // When an obstacle is detected by the sensor, the Arduino board will send a command to the servo to raise the shaft by degrees. 
 // After a few delays, the shaft will return to its original position. I also used a USB power supply, but battery power would also work.
